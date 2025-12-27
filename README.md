@@ -13,5 +13,5 @@ Learning Resources:
                             JS- https://youtu.be/g7T23Xzys-A?si=wkZfligBCY_xjiqg
                             GIT GITHUB - https://youtu.be/RDxQEzXN8AU?si=9HdczOz5EkdZ_3dA
                   2 ChatGPT  
-                            For understanding basic concepts and commands, learning how to include various features, understanding how to include social media icons
+                            For understanding basic concepts and commands, learning how to include various features, understanding how to include social media icons                               etc.
                             
